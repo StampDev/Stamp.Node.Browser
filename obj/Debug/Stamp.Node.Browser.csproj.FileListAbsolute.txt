@@ -1,0 +1,6 @@
+F:\GitHub\Inspinia\Stamp.Node.Browser\Stamp.Node.Browser\bin\Stamp.Node.Browser.dll.config
+F:\GitHub\Inspinia\Stamp.Node.Browser\Stamp.Node.Browser\bin\Stamp.Node.Browser.dll
+F:\GitHub\Inspinia\Stamp.Node.Browser\Stamp.Node.Browser\bin\Stamp.Node.Browser.pdb
+F:\GitHub\Inspinia\Stamp.Node.Browser\Stamp.Node.Browser\obj\Debug\Stamp.Node.Browser.csprojResolveAssemblyReference.cache
+F:\GitHub\Inspinia\Stamp.Node.Browser\Stamp.Node.Browser\obj\Debug\Stamp.Node.Browser.dll
+F:\GitHub\Inspinia\Stamp.Node.Browser\Stamp.Node.Browser\obj\Debug\Stamp.Node.Browser.pdb
